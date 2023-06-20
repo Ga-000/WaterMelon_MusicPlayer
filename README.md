@@ -1,7 +1,8 @@
 # WaterMelon_MusicPlayer
 This is a **music streaming site** called 'WaterMelon'.
 
-<br/><br/>
+<br/>
+
 ## Requirement
 For building and running the applicaion you need:
 * `eclipse`
@@ -10,9 +11,9 @@ For building and running the applicaion you need:
 * `SQLdeveloper`
 * `Scenebuilder-8.5.0`
 
-<br/>
+
 ## DB Table
-```sql
+```SQL
 // 회원리스트 Table
 CREATE TABLE member(
     id varchar2(20),
@@ -67,7 +68,8 @@ CREATE TABLE MYmusicList(
 );
 ```
 
-<br/><br/>
+
+
 # DEMO
 ### Demo Video : [WaterMelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
 ### Demo Photo
