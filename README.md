@@ -5,7 +5,7 @@ This is a **music streaming site** called Watermelon.
 <br/><br/>
 ## Programming Language
 
-<br/><br/>
+<br/>
 ## Requirement
 For building and running the applicaion you need:
 * `eclipse`
@@ -14,7 +14,7 @@ For building and running the applicaion you need:
 * `SQLdeveloper`
 * `Scenebuilder-8.5.0`
 
-<br/><br/>
+<br/>
 ## DB Table
 ```SQL
 // 회원리스트 Table
