@@ -28,7 +28,7 @@ CREATE TABLE musicList(
  heart NUMBER,
  singer VARCHAR2(30), 
  title VARCHAR2(80) not null, 
- user_id VARCHAR2(80) not null,				     	       --외래키로 지정할 컬럼
+ user_id VARCHAR2(80) not null,				     	        --외래키로 지정할 컬럼
      CONSTRAINT mL_user_id foreign key(user_id) references member (id)  --외래키 지정문
    --CONSTRAINT [FK명] foreign key([FK가 될 컬럼명]) references [PK가 위치하는 테이블] ([PK컬럼명])
    ON DELETE CASCADE
@@ -65,3 +65,7 @@ CREATE TABLE MYmusicList(
    --CONSTRAINT [FK명] foreign key([FK가 될 컬럼명]) references [PK가 위치하는 테이블] ([PK컬럼명])
 );
 ```
+
+# DEMO
+Demo Video : [watermelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
+
