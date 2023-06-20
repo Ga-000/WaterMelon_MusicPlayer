@@ -4,15 +4,15 @@ This is a **music streaming site** called 'WaterMelon'.
 <br/><br/>
 ## Requirement
 For building and running the applicaion you need:
-* eclipse
+* `eclipse`
   * jdk1.8.0_361
   * JavaFX
-* SQLdeveloper
-* Scenebuilder-8.5.0
+* `SQLdeveloper`
+* `Scenebuilder-8.5.0`
 
 <br/>
 ## DB Table
-```SQL
+```sql
 // 회원리스트 Table
 CREATE TABLE member(
     id varchar2(20),
