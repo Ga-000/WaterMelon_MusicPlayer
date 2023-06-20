@@ -1,5 +1,5 @@
 # WaterMelon_MusicPlayer
-This is a **music streaming site** called Watermelon.
+This is a **music streaming site** called 'WaterMelon'.
 
 <br/><br/>
 ## Requirement
