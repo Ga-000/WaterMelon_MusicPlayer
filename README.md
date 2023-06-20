@@ -2,14 +2,19 @@
 
 This is a **music streaming site** called Watermelon.
 
+<br/><br/>
+## Programming Language
+
+<br/><br/>
 ## Requirement
 For building and running the applicaion you need:
-* eclipse
-  * jdk1.8.0_361
-  * JavaFX
-* SQLdeveloper
-* Scenebuilder-8.5.0
+* `eclipse`
+  * `jdk1.8.0_361`
+  * `JavaFX`
+* `SQLdeveloper`
+* `Scenebuilder-8.5.0`
 
+<br/><br/>
 ## DB Table
 ```SQL
 // 회원리스트 Table
@@ -66,6 +71,7 @@ CREATE TABLE MYmusicList(
 );
 ```
 
+<br/><br/>
 # DEMO
 ### Demo Video : [WaterMelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
 ### Demo Photo
