@@ -67,5 +67,12 @@ CREATE TABLE MYmusicList(
 ```
 
 # DEMO
-Demo Video : [watermelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
+Demo Video : [WaterMelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
+
+![WaterMelon no.1](https://github.com/Ga-000/WaterMelon_MusicPlayer/assets/134590236/6ccb5029-d634-4b0f-9482-cccebb41bd7b)
+![WaterMelon no.2](https://github.com/Ga-000/WaterMelon_MusicPlayer/assets/134590236/b70b8cfc-e201-4759-b9fc-3e5a3fb80f8f)
+![WaterMelon no.3](https://github.com/Ga-000/WaterMelon_MusicPlayer/assets/134590236/4ac55851-3fd9-4adc-bd52-5ccd3ca07d74)
+![WaterMelon no.4](https://github.com/Ga-000/WaterMelon_MusicPlayer/assets/134590236/adc535fb-ec9c-4c5d-bfbe-6926d80c304b)
+![WaterMelon no.5](https://github.com/Ga-000/WaterMelon_MusicPlayer/assets/134590236/f85a0c0a-9c2a-4649-a5df-01b329f9bedb)
+![WaterMelon no.6](https://github.com/Ga-000/WaterMelon_MusicPlayer/assets/134590236/812b02cb-c70a-4e01-aaa5-1e87420bf964)
 
