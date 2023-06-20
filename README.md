@@ -28,7 +28,7 @@ CREATE TABLE musicList(
  heart NUMBER,
  singer VARCHAR2(30), 
  title VARCHAR2(80) not null, 
- user_id VARCHAR2(80) not null,				     	   --외래키로 지정할 컬럼
+ user_id VARCHAR2(80) not null,				     	       --외래키로 지정할 컬럼
      CONSTRAINT mL_user_id foreign key(user_id) references member (id)  --외래키 지정문
    --CONSTRAINT [FK명] foreign key([FK가 될 컬럼명]) references [PK가 위치하는 테이블] ([PK컬럼명])
    ON DELETE CASCADE
@@ -48,7 +48,7 @@ CREATE TABLE User_musicList(
  heart NUMBER,
  singer VARCHAR2(30) not null,
  title VARCHAR2(80) not null,
- user_id VARCHAR2(80) not null,                       --외래키로 지정할 컬럼
+ user_id VARCHAR2(80) not null,                                               --외래키로 지정할 컬럼
      CONSTRAINT userlist_user_id foreign key(user_id) references member (id)  --외래키 지정문
    --CONSTRAINT [FK명] foreign key([FK가 될 컬럼명]) references [PK가 위치하는 테이블] ([PK컬럼명])
    ON DELETE CASCADE
@@ -60,7 +60,7 @@ CREATE TABLE MYmusicList(
  heart NUMBER,
  singer VARCHAR2(30), 
  title VARCHAR2(80) not null, 
- user_id VARCHAR2(80) not null,                       --외래키로 지정할 컬럼
+ user_id VARCHAR2(80) not null,                                         --외래키로 지정할 컬럼
      CONSTRAINT fk_user_id foreign key(user_id) references member (id)  --외래키 지정문
    --CONSTRAINT [FK명] foreign key([FK가 될 컬럼명]) references [PK가 위치하는 테이블] ([PK컬럼명])
 );
