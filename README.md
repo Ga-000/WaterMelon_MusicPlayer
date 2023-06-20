@@ -22,6 +22,7 @@ CREATE TABLE member(
     memberday varchar2(40),
     PRIMARY KEY(id)
 );
+
 // 음악리스트 Table
 CREATE TABLE musicList(
  num int generated always as IDENTITY,
@@ -33,6 +34,7 @@ CREATE TABLE musicList(
    --CONSTRAINT [FK명] foreign key([FK가 될 컬럼명]) references [PK가 위치하는 테이블] ([PK컬럼명])
    ON DELETE CASCADE
 );
+
 // 관리자용 음악 테이블
 CREATE TABLE System_musicList(
  num int generated always as IDENTITY,
@@ -40,6 +42,7 @@ CREATE TABLE System_musicList(
  singer VARCHAR2(30) not null,
  title VARCHAR2(80) not null
 );
+
 // 사용자용 음악 테이블
 CREATE TABLE User_musicList(
  num int generated always as IDENTITY,
@@ -51,6 +54,7 @@ CREATE TABLE User_musicList(
    --CONSTRAINT [FK명] foreign key([FK가 될 컬럼명]) references [PK가 위치하는 테이블] ([PK컬럼명])
    ON DELETE CASCADE
 );
+
 // MYmusicList 테이블
 CREATE TABLE MYmusicList(
  num int generated always as IDENTITY,
@@ -65,8 +69,6 @@ CREATE TABLE MYmusicList(
 
 <br/><br/>
 # DEMO
-Demo Video : [WaterMelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
-
 ### Demo Video : [WaterMelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
 ### Demo Photo
 ![WaterMelon no.1](https://github.com/Ga-000/WaterMelon_MusicPlayer/assets/134590236/6ccb5029-d634-4b0f-9482-cccebb41bd7b)
