@@ -6,10 +6,11 @@ This is a **music streaming site** called Watermelon.
 For building and running the applicaion you need:
 * eclipse
   * jdk1.8.0_361
+  * JavaFX
 * SQLdeveloper
 * Scenebuilder-8.5.0
 
-## 
+## DB Table
 ```SQL
 // 회원리스트 Table
 CREATE TABLE member(
