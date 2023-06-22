@@ -143,9 +143,9 @@ For building and running the applicaion you need:
 	* SystemDTO.java
 
 * common 패키지
-	> HMakeMusicBox.java  :  (인기차트) 재생 목록 리스트 
-	> MakeMusicBox.java  :  (인기차트) 재생 목록 리스트
-	> MakeAlbumImage.java : 재생목록 음악 앨범이미지
+> HMakeMusicBox.java  :  (인기차트) 재생 목록 리스트
+> MakeMusicBox.java  :  (인기차트) 재생 목록 리스트
+> MakeAlbumImage.java : 재생목록 음악 앨범이미지
 
 <br/>
 
