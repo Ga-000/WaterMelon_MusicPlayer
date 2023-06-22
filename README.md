@@ -12,6 +12,8 @@ For building and running the applicaion you need:
 * `Scenebuilder-8.5.0`
   * FXML
 
+<br/>
+
 ## 🎮기능
 * 관리자 계정 로그인
 	* 회원가입 창에서 '아이디 : system'으로 회원 가입
@@ -98,8 +100,7 @@ For building and running the applicaion you need:
 	
 	> * ChartDAO.java
 	> * ChartDTO.java
-
-
+ 
 * member 패키지
 	> * login.fxml  :  로그인 창
 	> * myUpdate.fxml  :  회원정보 수정 창
@@ -113,8 +114,7 @@ For building and running the applicaion you need:
 	> * loginStaticDTO.java
 	> * MemberDAO.java
 	> * MemberDTO.java
-
-
+ 
 * login 패키지 --- 로그인 후 화면
 	> * Lpopular.fxml  :  (로그인) 인기 차트 페이지
 	> * LpopularController.java  :  (로그인) 인기 차트 controller
