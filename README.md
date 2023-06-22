@@ -3,7 +3,7 @@ This is a **music streaming site** called 'WaterMelon'.
 
 <br/>
 
-## ⚙Requirement
+## ⚙ Requirement
 For building and running the applicaion you need:
 * `eclipse`
   * jdk1.8.0_361
