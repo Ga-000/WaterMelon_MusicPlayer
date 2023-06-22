@@ -13,7 +13,6 @@ For building and running the applicaion you need:
   * FXML
 
 ## 기능
-
 * 관리자 계정 로그인
 	* 회원가입 창에서 '아이디 : system'으로 회원 가입
 	* 로그인 창에서 system계정으로 로그인할 경우, 관리자 창에서
@@ -49,7 +48,6 @@ For building and running the applicaion you need:
 
 
 ## Functions
-
 * Administrator account login
 	* Sign up as a member with 'ID: system' in the membership registration window
 	* If you log in as a 'system' account, you can add/delete music and can see Member list / Music list in the Administrator window
@@ -83,8 +81,9 @@ For building and running the applicaion you need:
 	* Move to the desired music playback location
 
 <br/>
+
 ## Code Package
-// main 패키지
+* main 패키지
 startPage.fxml  :  로딩화면
 startPageController  :  로딩화면 controller
 
@@ -102,7 +101,7 @@ ChartDAO.java
 ChartDTO.java
 
 
-// member 패키지
+* member 패키지
 login.fxml  :  로그인 창
 myUpdate.fxml  :  회원정보 수정 창
 register.fxml  :  회원가입  창
@@ -117,7 +116,7 @@ MemberDAO.java
 MemberDTO.java
 
 
-// login 패키지 --- 로그인 후 화면
+* login 패키지 --- 로그인 후 화면
 Lpopular.fxml  :  (로그인) 인기 차트 페이지
 LpopularController.java  :  (로그인) 인기 차트 controller
 Lrecent.fxml  : (로그인) 최신 음악 페이지
@@ -129,26 +128,27 @@ LmusicList.fxml  :  (로그인) 재생목록 페이지 
 MyplaylistController.java :  (로그인) 재생목록 controller
 MYplayListDTO.java 
 
-// nonlogin 패키지 --- 로그인 전 화면
+* nonlogin 패키지 --- 로그인 전 화면
 Npopular.fxml  :  (로그인)인기 차트 페이지
 NpopularController.java  :  (로그인) 인기 차트 controller
 Nrecent.fxml  : (로그인) 최신 음악 페이지
 NrecentController.java  :  (로그인) 최신 음악 controller
 
 
-// system 패키지 --- 관리자 화면
+* system 패키지 --- 관리자 화면
 SystemManagement.fxml  :  관리자 모드 페이지
 SystemController.java  :  관리자 모드 controller
 SystemManagement.css  
 SystemDAO.java
 SystemDTO.java
 
-// common 패키지
+* common 패키지
 HMakeMusicBox.java  :  (인기차트) 재생 목록 리스트 
 MakeMusicBox.java  :  (인기차트) 재생 목록 리스트
 MakeAlbumImage.java : 재생목록 음악 앨범이미지
 
 <br/>
+
 ## DB Table
 ```SQL
 // 회원리스트 Table
