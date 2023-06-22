@@ -1,4 +1,4 @@
-# 🍉WaterMelon_MusicPlayer🎧
+# 🍉 WaterMelon_MusicPlayer 🎧
 This is a **music streaming site** called 'WaterMelon'.
 
 <br/>
@@ -7,6 +7,7 @@ This is a **music streaming site** called 'WaterMelon'.
 For building and running the applicaion you need:
 * `eclipse`
   * jdk1.8.0_361
+  * JavaSE-1.8
   * JavaFX
 * `SQLdeveloper`
 * `Scenebuilder-8.5.0`
@@ -14,7 +15,7 @@ For building and running the applicaion you need:
 
 <br/>
 
-## 🎮기능
+## 🎮 기능
 * 관리자 계정 로그인
 	* 회원가입 창에서 '아이디 : system'으로 회원 가입
   	* 로그인 창에서 system계정으로 로그인할 경우, 관리자 창에서 음악 추가/삭제 가능, 회원리스트/음악리스트 볼 수 있음
@@ -48,7 +49,7 @@ For building and running the applicaion you need:
 		* 원하는 음악 재생 위치로 이동 가능
 
 
-## 🎮Functions
+## 🎮 Functions
 * Administrator account login
 	* Sign up as a member with 'ID: system' in the membership registration window
 	* If you log in as a 'system' account, you can add/delete music and can see Member list / Music list in the Administrator window
@@ -83,7 +84,7 @@ For building and running the applicaion you need:
 
 <br/>
 
-## 📁Code Package
+## 📁 Code Package
 * main 패키지
 	> * startPage.fxml  :  로딩화면
 	> * startPageController  :  로딩화면 controller
@@ -148,7 +149,7 @@ For building and running the applicaion you need:
 
 <br/>
 
-## 🧾DB Table
+## 🧾 DB Table
 ```SQL
 // 회원리스트 테이블
 CREATE TABLE member(
@@ -206,7 +207,7 @@ CREATE TABLE MYmusicList(
 
 <br/>
 
-# 🎞DEMO
+# 🎞 DEMO
 ### Demo Video : [WaterMelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
 ### Demo Photo
 ![WaterMelon no.1](https://github.com/Ga-000/WaterMelon_MusicPlayer/assets/134590236/6ccb5029-d634-4b0f-9482-cccebb41bd7b)
