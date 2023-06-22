@@ -86,17 +86,17 @@ For building and running the applicaion you need:
 * main 패키지
 	> * startPage.fxml  :  로딩화면
 	> * startPageController  :  로딩화면 controller
-	>
+	
 	> * Lmain.fxml : (로그인) main화면 메뉴바
 	> * LChartController.java : main화면 메뉴바 controller
 	> * Nmain.fxml : (비로그인) main화면 메뉴바
 	> * NChartController.java : main화면 메뉴바 controller
-	>
+	
 	> * home.fxml  :  main화면 중간 내용
 	> * homeController.java  :  main화면 중간 내용 controller
 	> * musicPlay.fxml  :  음악 재생 창
 	> * MusicPlayController.java  :  음악 재생 controller
-	>
+	
 	> * ChartDAO.java
 	> * ChartDTO.java
 
