@@ -1,4 +1,4 @@
-# ▶⏸WaterMelon_MusicPlayer
+# 🍉WaterMelon_MusicPlayer🎧
 This is a **music streaming site** called 'WaterMelon'.
 
 <br/>
