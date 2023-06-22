@@ -84,63 +84,63 @@ For building and running the applicaion you need:
 
 ## Code Package
 * main 패키지
-	* startPage.fxml  :  로딩화면
-	* startPageController  :  로딩화면 controller
-
-	* Lmain.fxml : (로그인) main화면 메뉴바
-	* LChartController.java : main화면 메뉴바 controller
-	* Nmain.fxml : (비로그인) main화면 메뉴바
-	* NChartController.java : main화면 메뉴바 controller
-
-	* home.fxml  :  main화면 중간 내용
-	* homeController.java  :  main화면 중간 내용 controller
-	* musicPlay.fxml  :  음악 재생 창
-	* MusicPlayController.java  :  음악 재생 controller
-
-	* ChartDAO.java
-	* ChartDTO.java
+	> * startPage.fxml  :  로딩화면
+	> * startPageController  :  로딩화면 controller
+	>
+	> * Lmain.fxml : (로그인) main화면 메뉴바
+	> * LChartController.java : main화면 메뉴바 controller
+	> * Nmain.fxml : (비로그인) main화면 메뉴바
+	> * NChartController.java : main화면 메뉴바 controller
+	>
+	> * home.fxml  :  main화면 중간 내용
+	> * homeController.java  :  main화면 중간 내용 controller
+	> * musicPlay.fxml  :  음악 재생 창
+	> * MusicPlayController.java  :  음악 재생 controller
+	>
+	> * ChartDAO.java
+	> * ChartDTO.java
 
 
 * member 패키지
-	* login.fxml  :  로그인 창
-	* myUpdate.fxml  :  회원정보 수정 창
-	* register.fxml  :  회원가입  창
-	* memberController.java  :  로그인 창 controller
-
-	* myPage.fxml  :  마이페이지 창
-	* myPageController.java  :  마이페이지 controller
-
-	* loginDTO.java
-	* loginStaticDTO.java
-	* MemberDAO.java
-	* MemberDTO.java
+	> * login.fxml  :  로그인 창
+	> * myUpdate.fxml  :  회원정보 수정 창
+	> * register.fxml  :  회원가입  창
+	> * memberController.java  :  로그인 창 controller
+	>
+	> * myPage.fxml  :  마이페이지 창
+	> * myPageController.java  :  마이페이지 controller
+	>
+	> * loginDTO.java
+	> * loginStaticDTO.java
+	> * MemberDAO.java
+	> * MemberDTO.java
 
 
 * login 패키지 --- 로그인 후 화면
-	* Lpopular.fxml  :  (로그인) 인기 차트 페이지
-	* LpopularController.java  :  (로그인) 인기 차트 controller
-	* Lrecent.fxml  : (로그인) 최신 음악 페이지
-	* LrecentController.java  :  (로그인) 최신 음악 controller
-	* LplayList.fxml  :  (로그인) 플레이 리스트 페이지
-	* playlistController.java  : (로그인) 플레이 리스트 controller
-	* PlaytitleDTO.java  
-	* LmusicList.fxml  :  (로그인) 재생목록 페이지 
-	* MyplaylistController.java :  (로그인) 재생목록 controller
-	* MYplayListDTO.java 
+	> * Lpopular.fxml  :  (로그인) 인기 차트 페이지
+	> * LpopularController.java  :  (로그인) 인기 차트 controller
+	> * Lrecent.fxml  : (로그인) 최신 음악 페이지
+	> * LrecentController.java  :  (로그인) 최신 음악 controller
+	> * LplayList.fxml  :  (로그인) 플레이 리스트 페이지
+	> * playlistController.java  : (로그인) 플레이 리스트 controller
+	> * PlaytitleDTO.java  
+	> * LmusicList.fxml  :  (로그인) 재생목록 페이지 
+	> * MyplaylistController.java :  (로그인) 재생목록 controller
+	> * MYplayListDTO.java 
 
 * nonlogin 패키지 --- 로그인 전 화면
-	* Npopular.fxml  :  (로그인)인기 차트 페이지
-	* NpopularController.java  :  (로그인) 인기 차트 controller
-	* Nrecent.fxml  : (로그인) 최신 음악 페이지
-	* NrecentController.java  :  (로그인) 최신 음악 controller
+	> * Npopular.fxml  :  (로그인)인기 차트 페이지
+	> * NpopularController.java  :  (로그인) 인기 차트 controller
+	> * Nrecent.fxml  : (로그인) 최신 음악 페이지
+	> * NrecentController.java  :  (로그인) 최신 음악 controller
 
 
 * system 패키지 --- 관리자 화면
-	* SystemManagement.fxml  :  관리자 모드 페이지
-	* SystemController.java  :  관리자 모드 controller
-	* SystemManagement.css  
-	* SystemDAO.java
-	* SystemDTO.java
+	> * SystemManagement.fxml  :  관리자 모드 페이지
+	> * SystemController.java  :  관리자 모드 controller
+	> * SystemManagement.css  
+	> * SystemDAO.java
+	> * SystemDTO.java
 
 * common 패키지
 	> * HMakeMusicBox.java  :  (인기차트) 재생 목록 리스트
