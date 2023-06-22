@@ -150,7 +150,7 @@ For building and running the applicaion you need:
 
 ## 🧾DB Table
 ```SQL
-// 회원리스트 Table
+// 회원리스트 테이블
 CREATE TABLE member(
     id varchar2(20),
     pw varchar2(20),
@@ -160,7 +160,7 @@ CREATE TABLE member(
     PRIMARY KEY(id)
 );
 
-// 음악리스트 Table
+// 음악리스트 테이블
 CREATE TABLE musicList(
  num int generated always as IDENTITY,
  heart NUMBER,
