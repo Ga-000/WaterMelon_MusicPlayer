@@ -106,10 +106,8 @@ For building and running the applicaion you need:
 	> * myUpdate.fxml  :  회원정보 수정 창
 	> * register.fxml  :  회원가입  창
 	> * memberController.java  :  로그인 창 controller
-	>
 	> * myPage.fxml  :  마이페이지 창
 	> * myPageController.java  :  마이페이지 controller
-	>
 	> * loginDTO.java
 	> * loginStaticDTO.java
 	> * MemberDAO.java
