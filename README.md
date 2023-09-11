@@ -211,9 +211,9 @@ CREATE TABLE MYmusicList(
 ### Demo Video : [WaterMelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
 ### Demo Photo
 
-![WaterMelon no.1](./README_img/WaterMelon 1.JPG)
-![WaterMelon no.2](./README_img/WaterMelon 2.JPG)
-![WaterMelon no.3](./README_img/WaterMelon 3.JPG)
-![WaterMelon no.4](./README_img/WaterMelon 4.JPG)
-![WaterMelon no.5](./README_img/WaterMelon 5.JPG)
-![WaterMelon no.6](./README_img/WaterMelon 6.JPG)
+![WaterMelon no.1](./README_img/WaterMelon1.JPG)
+![WaterMelon no.2](./README_img/WaterMelon2.JPG)
+![WaterMelon no.3](./README_img/WaterMelon3.JPG)
+![WaterMelon no.4](./README_img/WaterMelon4.JPG)
+![WaterMelon no.5](./README_img/WaterMelon5.JPG)
+![WaterMelon no.6](./README_img/WaterMelon6.JPG)
