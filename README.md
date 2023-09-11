@@ -33,7 +33,7 @@ For building and running the applicaion you need:
 
  * 박병록
  	* 재생목록 관리
-    	* 플레이리스트 관리
+	* 플레이리스트 관리
        
  * 최민경
    	* 사용자 회원가입 / 회원정보 수정 / 회원탈퇴
