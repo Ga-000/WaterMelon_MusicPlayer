@@ -17,7 +17,7 @@ For building and running the applicaion you need:
 
 ## 🔊 개요
 - 프로젝트명 : WaterMelon Project
-- 프로젝트 진행기간 : 2023.05.25 ~ 2023.06.1
+- 프로젝트 진행기간 : 2023.05.25 ~ 2023.06.12
 - 프로젝트 맴버 : 김가영, 김정원, 박병록, 최민경
 
 <br/>
