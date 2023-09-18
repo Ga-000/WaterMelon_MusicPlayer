@@ -43,12 +43,12 @@ For building and running the applicaion you need:
 
 ## 🎮 기능
 * 관리자 계정 로그인
-  * 회원가입 창에서 '아이디 : system'으로 회원 가입
-  * 로그인 창에서 system계정으로 로그인할 경우, 관리자 창에서 음악 추가/삭제 가능, 회원리스트/음악리스트 볼 수 있음
+	* 회원가입 창에서 '아이디 : system'으로 회원 가입
+	* 로그인 창에서 system계정으로 로그인할 경우, 관리자 창에서 음악 추가/삭제 가능, 회원리스트/음악리스트 볼 수 있음
 
 * 로그인 / 비로그인 회원에 따라 보여지는 Main화면이 다름
-  * 비로그인 회원 : Home, 인기차트, 최신음악
-  * 회원 : Home, 인기차트, 최신음악, 재생목록, 플레이리스트
+	* 비로그인 회원 : Home, 인기차트, 최신음악
+	* 회원 : Home, 인기차트, 최신음악, 재생목록, 플레이리스트
 
 * Home
 	* Main화면으로 홍보영상 재생
@@ -104,9 +104,9 @@ For building and running the applicaion you need:
 		* Members click 'Heart' on the music they like in the music playback window
 	* Add button
 		* Add the music that the login member wants directly to the playlist by clicking '+'
-* Progress bar
-	* Progress bar showing when music is played
-	* Move to the desired music playback location
+	* Progress bar
+		* Progress bar showing when music is played
+		* Move to the desired music playback location
 
 <br/>
 
