@@ -18,7 +18,7 @@ For building and running the applicaion you need:
 ## 🔊 개요
 - 프로젝트명 : WaterMelon Project
 - 프로젝트 진행기간 : 2023.05.25 ~ 2023.06.12
-- 프로젝트 맴버 : 김가영, 김정원, 박병록, 최민경
+- 프로젝트 맴버 : 김가영, 김OO, 박OO, 최OO
 
 <br/>
 
@@ -27,15 +27,15 @@ For building and running the applicaion you need:
   * 관리자 서버 / 음악 등록 및 삭제 / 회원정보 관리
   * 음악 재생 창
    
-* 김정원
+* 김OO
   * 인기차트 관리
   * 최신음악 관리
 
-* 박병록
+* 박OO
   * 재생목록 관리
   * 플레이리스트 관리
        
-* 최민경
+* 최OO
   * 사용자 회원가입 / 회원정보 수정 / 회원탈퇴
   * 마이페이지 관리
    	  
