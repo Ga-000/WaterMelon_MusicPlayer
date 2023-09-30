@@ -1,6 +1,8 @@
 # 🍉 WaterMelon_MusicPlayer 🎧
 This is a **music streaming site** called 'WaterMelon'.
 
+You can access this link <https://ga-000.github.io/WaterMelon_MusicPlayer/>
+
 <br/>
 
 ## ⚙ Requirement
@@ -19,6 +21,8 @@ For building and running the applicaion you need:
 - 프로젝트명 : WaterMelon Project
 - 프로젝트 진행기간 : 2023.05.25 ~ 2023.06.12
 - 프로젝트 맴버 : 김가영, 김OO, 박OO, 최OO
+  
+![WaterMelon no.1](./README_img/슬라이드1.png)
 
 <br/>
 
@@ -42,6 +46,8 @@ For building and running the applicaion you need:
 <br/>
 
 ## 🎮 기능
+![WaterMelon no.2](./README_img/슬라이드2.png)
+![WaterMelon no.3](./README_img/슬라이드3.png)
 * 관리자 계정 로그인
 	* 회원가입 창에서 '아이디 : system'으로 회원 가입
 	* 로그인 창에서 system계정으로 로그인할 경우, 관리자 창에서 음악 추가/삭제 가능, 회원리스트/음악리스트 볼 수 있음
@@ -176,6 +182,8 @@ For building and running the applicaion you need:
 <br/>
 
 ## 🧾 DB Table
+![WaterMelon no.4](./README_img/슬라이드4.png)
+
 ```SQL
 // 회원리스트 테이블
 CREATE TABLE member(
@@ -237,9 +245,10 @@ CREATE TABLE MYmusicList(
 ### Demo Video : [WaterMelon DEMO.zip](https://github.com/Ga-000/WaterMelon_MusicPlayer/files/11805182/watermelon.zip)
 ### Demo Photo
 
-![WaterMelon no.1](./README_img/WaterMelon1.jpg)
-![WaterMelon no.2](./README_img/WaterMelon2.jpg)
-![WaterMelon no.3](./README_img/WaterMelon3.jpg)
-![WaterMelon no.4](./README_img/WaterMelon4.jpg)
-![WaterMelon no.5](./README_img/WaterMelon5.jpg)
-![WaterMelon no.6](./README_img/WaterMelon6.jpg)
+![WaterMelon no.5](./README_img/슬라이드5.png)
+![WaterMelon no.6](./README_img/슬라이드6.png)
+![WaterMelon no.7](./README_img/슬라이드7.png)
+![WaterMelon no.8](./README_img/슬라이드8.png)
+![WaterMelon no.9](./README_img/슬라이드9.png)
+![WaterMelon no.10](./README_img/슬라이드10.png)
+![WaterMelon no.11](./README_img/슬라이드11.png)
